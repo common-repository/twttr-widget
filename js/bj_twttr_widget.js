@@ -1,0 +1,1 @@
+(function($){$(window).load(function(){$('.twitter-timeline').each(function(){$(this).after('<script src="//platform.twitter.com/widgets.js"></script>');});});})(jQuery);
